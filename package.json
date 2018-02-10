@@ -1,0 +1,26 @@
+{
+  "name": "biliconcat",
+  "version": "0.0.1",
+  "description": "concat bilibili segment blv videos to flv",
+  "main": "index.js",
+  "dependencies": {
+    "mkdirp": "^0.5.1",
+    "rmdir-sync": "^1.0.1"
+  },
+  "bin": {
+    "biliConcat": "./index.js"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.coding.net:luojia/biliConcat.git"
+  },
+  "keywords": [
+    "bilibili"
+  ],
+  "author": "luojia@luojia.me",
+  "license": "GPL-2.0"
+}
