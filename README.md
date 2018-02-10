@@ -22,7 +22,7 @@ npm i biliconcat -g
 
 # 使用
 
-到存在`entry.json`目录的上一级目录执行以下命令
+到存在`entry.json`文件的目录的上一级目录（包含了合集下所有视频目录的目录）执行以下命令
 
 ```shell
 biliConcat
