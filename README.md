@@ -9,7 +9,9 @@
 需要先安装`npm`和`ffmpeg`，并使ffmpeg可以通过命令直接调用（比如放进PATH）
 
 安装本工具:
+
 （windows）以管理员身份打开`cmd`或`powershell`
+
 （其他）以root身份打开一个shell
 
 输入命令
