@@ -22,7 +22,7 @@ npm i biliconcat -g
 
 # 使用
 
-到存在`entry.json`目录的上一级目录执行一下命令
+到存在`entry.json`目录的上一级目录执行以下命令
 
 ```shell
 biliConcat
