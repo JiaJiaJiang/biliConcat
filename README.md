@@ -6,7 +6,7 @@
 
 # 安装
 
-需要先安装`npm`和`ffmpeg`，并使ffmpeg可以通过命令直接调用（比如放进PATH）
+需要先安装[npm](https://nodejs.org/en/download/)和[ffmpeg](http://ffmpeg.org/download.html)，并使ffmpeg可以通过命令直接调用（比如放进PATH）
 
 安装本工具:
 
